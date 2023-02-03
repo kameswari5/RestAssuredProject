@@ -1,0 +1,8 @@
+[INFO ] 2023-02-03 07:37:19.200 [main] ToDosTest - Response of GetAllMethod
+[INFO ] 2023-02-03 07:37:19.349 [main] ToDosTest - Response of GetById 
+[INFO ] 2023-02-03 07:37:19.689 [main] ToDosTest - json string 
+[INFO ] 2023-02-03 07:37:20.601 [main] ToDosTest - Response of  postMethod
+[INFO ] 2023-02-03 07:37:20.604 [main] ToDosTest - Converting pojo class object to json by using ObjectMapper object
+[INFO ] 2023-02-03 07:37:20.609 [main] ToDosTest - json string 
+[INFO ] 2023-02-03 07:37:21.079 [main] ToDosTest - json string 
+[INFO ] 2023-02-03 07:37:21.722 [main] ToDosTest - Response of putMethod 

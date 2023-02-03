@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-03T07:37:16 MST" name="Default suite" finished-at="2023-02-03T07:37:21 MST" duration-ms="5438">
+    <groups>
+    </groups>
+    <test started-at="2023-02-03T07:37:16 MST" name="Default test" finished-at="2023-02-03T07:37:21 MST" duration-ms="5438">
+      <class name="tests.ToDosTest">
+        <test-method signature="GetAllMethod()[pri:0, instance:tests.ToDosTest@75459c75]" started-at="2023-02-03T07:37:16 MST" name="GetAllMethod" finished-at="2023-02-03T07:37:19 MST" duration-ms="2867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllMethod -->
+        <test-method signature="GetById()[pri:0, instance:tests.ToDosTest@75459c75]" started-at="2023-02-03T07:37:19 MST" name="GetById" finished-at="2023-02-03T07:37:19 MST" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetById -->
+        <test-method signature="deleteMethod()[pri:0, instance:tests.ToDosTest@75459c75]" started-at="2023-02-03T07:37:19 MST" name="deleteMethod" finished-at="2023-02-03T07:37:20 MST" duration-ms="783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteMethod -->
+        <test-method signature="postMethod()[pri:0, instance:tests.ToDosTest@75459c75]" started-at="2023-02-03T07:37:20 MST" name="postMethod" finished-at="2023-02-03T07:37:21 MST" duration-ms="934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postMethod -->
+        <test-method signature="putMethod()[pri:0, instance:tests.ToDosTest@75459c75]" started-at="2023-02-03T07:37:21 MST" name="putMethod" finished-at="2023-02-03T07:37:21 MST" duration-ms="647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putMethod -->
+      </class> <!-- tests.ToDosTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
